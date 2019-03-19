@@ -1,5 +1,9 @@
 # Sample NodeJS application for Azure Pipelines docs
 
+This is the new badge by Kaushal:
+[![Build Status](https://dev.azure.com/dtatestingint/Kaushal/_apis/build/status/KKghai.pipelines-javascript?branchName=master)](https://dev.azure.com/dtatestingint/Kaushal/_build/latest?definitionId=166&branchName=master)
+
+
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
