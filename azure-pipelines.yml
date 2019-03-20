@@ -27,7 +27,7 @@ steps:
 
 - task: PublishCodeCoverageResults@1
   inputs: 
-    codeCoverageTool: Cobertura
+    codeCoverageTool: clover
     summaryFileLocation: '$(System.DefaultWorkingDirectory)/**/*coverage.xml'
     reportDirectory: '$(System.DefaultWorkingDirectory)/**/coverage'
     
