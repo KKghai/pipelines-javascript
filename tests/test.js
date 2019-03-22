@@ -78,10 +78,15 @@ describe('String', function () {
         });
 
     });
-    
+
    });
 
 }
+
+for (var i = 0; i <1000 ; i++) {
+
+	if(0==1){
+	
 describe('String', function () {
     describe('#indexOf', function () {
         it('should return -1 when the substring is not present', function () {
@@ -93,4 +98,8 @@ describe('String', function () {
         });
 
     });
-});
+    
+   });
+
+}
+}
