@@ -78,6 +78,8 @@ describe('String', function () {
         });
 
     });
+    
+   });
 
 }
 describe('String', function () {
