@@ -1,5 +1,8 @@
 # Build NodeJS Express app using Azure Pipelines
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript?view=vsts
+
+stages:
+- stage: ABC
 pool:
   vmImage: 'Ubuntu 16.04'
   
